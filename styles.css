@@ -231,3 +231,237 @@ body{
     color: white;
     box-shadow: 0 5px 5px rgba(0, 0, 0, .7);
 }
+
+.bdyHobbies{
+    background-color: #fccb41;
+}
+
+.bdyHobbies h1{
+    font-family: 'Dongle', sans-serif;
+    font-size: 80px;
+    margin-top: -2rem;
+}
+
+.imgProgra{
+    width: 8rem;
+    height: 8rem;
+}
+
+.progra p.txtProgra{
+    margin-top: -2rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .imgVg{
+    width: 8rem;
+    height: 8rem;
+}
+
+.vg p.txtVg{
+    margin-top: -2rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .imgBs{
+    width: 8rem;
+    height: 8rem;
+}
+
+.bs p.txtBs{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .imgMusica{
+    width: 8rem;
+    height: 8rem;
+}
+
+.musica p.txtMusica{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .imgDormir{
+    width: 8rem;
+    height: 8rem;
+}
+
+.dormir p.txtDormir{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .btnHobbiesAtras{
+    margin: 0 50px;
+    position: relative;
+    padding: 1px 30px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 40px;
+    background-color: #fccb41;
+    letter-spacing: 2px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: .3s;
+    margin-top: -220px;
+    margin-left: 8rem;
+}
+
+.btnHobbiesAtras:hover{
+    color: white;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .7);
+}
+
+.bdyPeliculas{
+    background-color: #8fc8bf;
+}
+
+.bdyPeliculas h1{
+    font-family: 'Dongle', sans-serif;
+    font-size: 80px;
+    margin-top: -2rem;
+}
+
+.imgGigAcero{
+    width: 8rem;
+    height: 8rem;
+}
+
+.gigAcero p.txtGigAcero{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .imgShrek{
+    width: 8rem;
+    height: 8rem;
+}
+
+.shrek p.txtShrek{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .imgSp{
+    width: 8rem;
+    height: 8rem;
+}
+
+.sp p.txtSp{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .imgJp{
+    width: 8rem;
+    height: 8rem;
+}
+
+.jp p.txtJp{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .btnPeliculasAtras{
+    margin: 0 50px;
+    position: relative;
+    padding: 1px 30px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 40px;
+    background-color: #8fc8bf;
+    letter-spacing: 2px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: .3s;
+    margin-top: -220px;
+    margin-left: 8rem;
+}
+
+.btnPeliculasAtras:hover{
+    color: white;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .7);
+}
+
+.bdySeries{
+    background-color: #48c2de;
+}
+
+.bdySeries h1{
+    font-family: 'Dongle', sans-serif;
+    font-size: 80px;
+    margin-top: -2rem;
+}
+
+.imgZoo{
+    width: 8rem;
+    height: 8rem;
+}
+
+.zoo p.txtZoo{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .imgNar{
+    width: 8rem;
+    height: 8rem;
+}
+
+.nar p.txtNar{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .imgCf{
+    width: 8rem;
+    height: 8rem;
+}
+
+.cf p.txtCf{
+    margin-top: -1rem;
+    font-size: 40px;
+    font-family: 'Dongle', sans-serif;
+    color: black;
+ }
+
+ .btnSeriesAtras{
+    margin: 0 50px;
+    position: relative;
+    padding: 1px 30px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 40px;
+    background-color: #48c2de;
+    letter-spacing: 2px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: .3s;
+    margin-top: -220px;
+    margin-left: 8rem;
+}
+
+.btnSeriesAtras:hover{
+    color: white;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .7);
+}
